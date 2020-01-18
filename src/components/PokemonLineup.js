@@ -32,12 +32,10 @@ const PokemonLineupBlock = styled.div`
 `;
 
 const Lineup = styled.div`
-  height: 100%;
+  height: calc(100% - 30px);
   
   display: grid;
   grid-template-rows: 1fr 1fr;
   grid-template-columns: 1fr 1fr 1fr;
   grid-auto-flow: row;
-  
-  & > * { margin: auto }
 `;
