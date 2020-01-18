@@ -52,10 +52,18 @@ class PokedexPokemonInformation extends Component {
 
       <PokemonInfoTable>
         <tbody>
-        <tr>
-          <td>Name</td>
-          <td>{selectedLookupPokemon.displayName}</td>
-        </tr>
+          <tr>
+            <td>Name</td>
+            <td>{selectedLookupPokemon.displayName}</td>
+          </tr>
+          <tr>
+            <td>Weight</td>
+            <td>{selectedLookupPokemon.weight}</td>
+          </tr>
+          <tr>
+            <td>Height</td>
+            <td>{selectedLookupPokemon.height}</td>
+          </tr>
         </tbody>
       </PokemonInfoTable>
 

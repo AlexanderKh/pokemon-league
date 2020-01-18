@@ -24,8 +24,10 @@ const PokemonLeagueBlock = styled.div`
   flex-direction: row;
   flex-wrap: nowrap;
   
-  width: 100%;
-  height: 100%;
+  min-width: 600px;
+  min-height: 400px;
+  width: 60%;
+  height: 60%;
   
   border: 2px dashed darkgray;
   

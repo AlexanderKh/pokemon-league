@@ -92,6 +92,6 @@ const PokedexAreaBlock = styled.div`
 `;
 
 const PokemonLookupWrapper = styled.div`
-  padding: 0 5px;
+  padding: 0 10px;
   width: 100%;
 `;
