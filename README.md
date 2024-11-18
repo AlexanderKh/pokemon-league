@@ -1,3 +1,7 @@
+Test task for LaunchPad Recruits. Requirements are in `requirements.pdf`
+
+## Development
+
 In the project directory, you can run:
 
 ### `yarn start`
