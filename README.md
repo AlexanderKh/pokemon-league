@@ -1,4 +1,4 @@
-Test task for LaunchPad Recruits. Requirements are in `requirements.pdf`
+JavaScript test task for LaunchPad Recruits. Requirements are in `requirements.pdf`
 
 ## Development
 
