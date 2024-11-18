@@ -2,6 +2,10 @@ JavaScript test task for LaunchPad Recruits. Requirements are in `requirements.p
 
 ## Development
 
+This app needs:
+* Node v16
+* Yarn
+
 In the project directory, you can run:
 
 ### `yarn start`
