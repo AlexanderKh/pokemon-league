@@ -2,6 +2,7 @@
   "name": "pokemon-league",
   "version": "0.1.0",
   "private": true,
+  "homepage": ".",
   "dependencies": {
     "lodash": "~4.17.19",
     "pokeapi-js-wrapper": "~1.1.2",
